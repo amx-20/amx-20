@@ -1,8 +1,7 @@
 # Hi, I'm Ahmed 👋
 
 ### Data Analyst | Accounting | ERP
-
-&gt; I like understanding how things work, and building something better.
+>I like understanding how things work, and building something better.
 
 **[Open to work. →](https://github.com/amx-20/AMX-Portfolio)**
 
