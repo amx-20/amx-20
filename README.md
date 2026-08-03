@@ -2,10 +2,9 @@
 
 ### Data Analyst | Accounting | ERP
 
-> I like understanding how things work, and building something better.
+&gt; I like understanding how things work, and building something better.
 
-
-**[Open to work.→ ](https://github.com/amx-20/AMX-Portfolio)**
+**[Open to work. →](https://github.com/amx-20/AMX-Portfolio)**
 
 ---
 
