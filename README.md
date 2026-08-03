@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ahmed Mahmoud</h1>
+<h3 align="center">Data Analyst · Data Science Enthusiast</h3>
 
-<!--
-**amx-20/amx-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I like understanding how things work, then build something better.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/amx-20/AMX-Portfolio">Find out more about me</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Open to work.
+</p>
+
+---
+
+### Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amx20/">LinkedIn</a> ·
+  <a href="https://www.kaggle.com/amx2001">Kaggle</a> ·
+  <a href="mailto:2001ahmedmahmoud@gmail.com">Gmail</a>
+</p>
